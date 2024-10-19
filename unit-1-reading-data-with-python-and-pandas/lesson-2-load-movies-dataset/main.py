@@ -14,3 +14,5 @@ print(df)
 df.head(10)
 
 df.describe()
+
+df['movie_title'].describe()
